@@ -1,0 +1,21 @@
+[
+{
+  "modid": "auxiliorum",
+  "name": "Auxiliorum",
+  "description": "This is a mod! Ooh it does stuff!",
+  "version": "alpha-001",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "lazerzes"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
