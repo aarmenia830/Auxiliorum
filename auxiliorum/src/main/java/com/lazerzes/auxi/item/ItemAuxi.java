@@ -1,5 +1,6 @@
 package com.lazerzes.auxi.item;
 
+import com.lazerzes.auxi.creativetab.CreativeTabAuxi;
 import com.lazerzes.auxi.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,7 +13,7 @@ public class ItemAuxi extends Item{
     public ItemAuxi(){
 
         super();
-        //TODO: this.setCreativeTab(CreativeTabAuxi.AUXI_TAB)
+        this.setCreativeTab(CreativeTabAuxi.AUXI_TAB);
 
     }
 

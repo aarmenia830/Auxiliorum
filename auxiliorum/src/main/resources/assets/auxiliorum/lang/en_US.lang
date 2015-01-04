@@ -1,0 +1,9 @@
+#Creative Tabs
+itemGroup.auxiliorum=Auxiliorum
+
+#Items
+item.auxiliorum:energizedEnderEye.name=§4Energized §fEye Of Ender
+item.auxiliorum:energizedEnderDiamond.name=§4Energized §fEnder Diamond
+
+#Blocks
+tile.auxiliorum:enderInfuser.name=Ender Infuser
